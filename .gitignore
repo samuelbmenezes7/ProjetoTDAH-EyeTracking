@@ -1,0 +1,17 @@
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de Dados e Modelos (NUNCA enviar!)
+# Quem baixar o projeto deve treinar o próprio modelo.
+*.csv
+*.joblib
+
+# Imagens de teste baixadas (NÃO enviar!)
+# A pasta "imagem" com a foto da tarefa será enviada.
+busca_panda.jpg
+busca_cachorro.jpg
+
+# Arquivos de ambiente (se você usar)
+.venv/
+venv/

@@ -42,7 +42,7 @@ Este projeto usa Python 3.10.
 
 \# Clone o repositório (ou baixe o ZIP)
 
-git clone \[COLE A URL DO SEU REPOSITÓRIO AQUI]
+git clone \https://github.com/samuelbmenezes7/ProjetoTDAH-EyeTracking.git
 
 cd ProjetoTDAH-EyeTracking
 
